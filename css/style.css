@@ -1,0 +1,290 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+    width: 80%;
+    margin: 40px auto;
+    overflow: hidden;
+}
+.logo{
+    
+    width: 20%;
+    float: left;
+    color: #333;
+}
+nav{
+    
+    overflow: hidden;
+    /*! float: right; */
+    width: 80%;
+}
+nav ul{
+    
+    float: right;
+    list-style: none;
+    overflow: hidden;
+}
+nav ul li{
+    
+    float: left;
+    margin-left: 100px;
+    text-transform: uppercase;
+    /*! color: #A0A0A0; */
+}
+nav ul li a{
+    
+    text-decoration: none;
+    color: #A0A0A0;
+}
+.content_pic{
+    
+    width: 80%;
+    margin: 0 auto;
+}
+.content_pic img{
+
+    width: 100%;
+}
+.upper_content{
+
+    width: 60%;
+    margin: 70px auto;
+}
+.upper_content h4{
+    
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    color: #CECFC9; 
+}
+.upper_content h2{
+    
+    padding: 15px 0;
+    text-transform: capitalize;
+    color: #626262;
+}
+.upper_content p{
+    
+    margin-bottom: 30px;
+    color: #626262;
+}
+.second_content_pic{
+
+    width: 60%;
+    margin: 0px auto;
+    overflow: hidden;
+}
+.first{
+
+    float: left;
+}
+.second{
+    
+    /*! margin-left: 57px; */
+    float: right;
+}
+.first img{
+
+    width: 100%;
+} 
+.second img{
+    
+}
+section{
+    
+    width: 60%;
+    margin: 20px auto;
+    overflow: hidden;
+}
+.lifestyle_one{
+
+    float: left;
+    width: 42%;
+}
+.lifestyle_one h4{
+    
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    color: #BEBFBA;
+}
+.lifestyle_one h2{
+    
+    margin-bottom: 15px;
+    font-size: 153%;
+    color: #616161;
+}
+.lifestyle_one p{
+    
+    color: #909090;
+}
+.lifestyle_two{
+
+    float: right;
+    width: 43%;
+}
+.lifestyle_two h4{
+    
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    color: #BEBFBA;
+}
+.lifestyle_two h2{
+    
+    margin-bottom: 15px;
+    font-size: 153%;
+    color: #616161;
+}
+.lifestyle_two p{
+    
+    color: #909090;
+}
+.photodiary{
+    
+    width: 60%;
+    margin: 70px auto;
+    overflow: hidden;
+}
+.photodiary_left{
+
+    float: left;
+    width: 44%;
+}
+.photodiary_left h4{
+    
+    margin: 20px 0;
+    text-transform: uppercase;
+    color: #BFBFBD;
+}
+.photodiary_left h2{
+    
+    margin-bottom: 15px;
+    color: #656565;
+}
+.photodiary_left p{
+    
+    color: #939393;
+}
+.photodiary_right{
+    
+    float: right;
+    width: 43%;
+}
+.photodiary_right h4{
+    
+    margin: 20px 0;
+    text-transform: uppercase;
+    color: #BFBFBD;
+}
+.photodiary_right h2{
+    
+    margin-bottom: 15px;
+    color: #656565;
+}
+.photodiary_right p{
+    
+    color: #939393;
+}
+.newsletter{
+
+    width: 80%;
+    margin: 100px auto;
+    padding: 50px 0px;
+    text-align: center;
+    background-color: #F0F0F0;
+}
+.newsletter h2{
+    
+    /*! padding: 0 50px; */
+    margin-bottom: 40px;
+    font-size: 45px;
+}
+.newsletter img{
+    
+}
+.bottom_content{
+
+}
+.bottom_content_left{
+
+    float: left;
+    width: 44%;
+}
+.bottom_content_left img{
+    
+}
+.bottom_content_left h4{
+    
+    margin: 20px auto;
+    text-transform: uppercase;
+    color: #CFCFCD;
+}
+.bottom_content_left h2{
+    
+    margin-bottom: 15px;
+    color: #565656;
+}
+.bottom_content_left p{
+    
+    color: #979797;
+}
+.bottom_content_right{
+
+    float: right;
+    width: 44%;
+}
+.bottom_content_right img{
+    
+}
+.bottom_content_right h4{
+    
+    margin: 20px auto;
+    text-transform: uppercase;
+    color: #CFCFCD;
+}
+.bottom_content_right h2{
+    
+    margin-bottom: 15px;
+    color: #565656;
+}
+.bottom_content_right p{
+    
+    color: #979797;
+}
+.btn{
+
+    text-align: center;
+    width: 80%;
+    margin: 0px auto;
+}
+.btn button{
+    
+    font-size: 20px;
+    margin: 60px 0px;
+    padding: 20px 45px;
+    color: #575757;
+}
+footer{
+
+    width: 80%;
+    margin: 0px auto;
+    overflow: hidden;
+    padding: 50px 0px;
+    background-color: #F0F0F0;
+}
+.footer_part{
+    
+}
+.footer_part h3{
+    
+    float: left;
+    /*! margin-left: 25px; */
+}
+.privacy{
+    
+    margin-left: 20px;
+}
+.footer_part img{
+    
+    float: right;
+}
